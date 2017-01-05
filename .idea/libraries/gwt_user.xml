@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gwt-user">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/download/gwt-2.8.0/gwt-user.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/download/gwt-2.8.0/gwt-user.jar!/" />
+    </SOURCES>
+  </library>
+</component>

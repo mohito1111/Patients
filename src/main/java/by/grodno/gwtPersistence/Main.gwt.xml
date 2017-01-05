@@ -1,0 +1,18 @@
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.0//EN"
+        "http://google-web-toolkit.googlecode.com/svn/releases/2.0/distro-source/core/src/gwt-module.dtd">
+<module rename-to="gwtPersist">
+
+    <!-- Inherit the core Web Toolkit stuff. -->
+    <inherits name='com.google.gwt.user.User'/>
+
+    <!--<entry-point class='by.grodno.gwtPersistence.client.Main'/>-->
+    <entry-point class="by.grodno.gwtPersistence.client.PatientTableView"/>
+
+    <!-- Inherit the UiBinder module.                               -->
+    <inherits name="com.google.gwt.uibinder.UiBinder"/>
+
+    <!-- Specify the paths for translatable code -->
+    <source path='client'/>
+    <source path='shared'/>
+
+</module>
